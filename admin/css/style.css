@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	outline: 0px;
+}
+
+img{
+	border: 0px;
+}
+
+ul, ol{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+body{
+
+}
+
+.img{
+	width: 100%;
+}
